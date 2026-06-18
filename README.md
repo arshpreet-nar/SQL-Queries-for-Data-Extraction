@@ -217,7 +217,9 @@ FROM enrollments
 ## Project Structure
 
 ```text
-DAY_7.sql
+SCREENSHOTS
+Data_Analytics_SQL_Queries_Report.docx
+SQL_QUERY_FOR_DATAEXTRACTION.sql
 README.md
 ```
 
